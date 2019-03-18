@@ -3,9 +3,19 @@
 Cloning straight away will not download the APK
 to download the desired apk click on the desired apk and then on the next page click download as the files are uploaded using GIT LFS.
 
+OR
 
+User bellow links
 
+https://github.com/Aalekh-Sajonia/VRMarket/blob/master/StoreMasterS.apk
 
+https://github.com/Aalekh-Sajonia/VRMarket/blob/master/StoreMasterUS.apk
+
+https://github.com/Aalekh-Sajonia/VRMarket/blob/master/StoreMasterV2.apk
+
+Google Drive link is also provided just in case :)
+
+https://drive.google.com/drive/folders/1tO3QpbYPjUqsRbtI0IpzPQa_V-LRbd2X?usp=sharing
 
 This app is in Version (0.2) right now.
 
