@@ -1,4 +1,12 @@
 # VRMarket
+
+Cloning straight away will not download the APK
+to download the desired apk click on the desired apk and then on the next page click download as the files are uploaded using GIT LFS.
+
+
+
+
+
 This app is in Version (0.2) right now.
 
 StoreMasterV2.apk this is the latest build and has some cool features like in Virtual World Assitant that will help you show how to use the market this virtual assitant is 3D model of "Unity Chan". 
