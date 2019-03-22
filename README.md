@@ -1,6 +1,6 @@
 # VRMarket
 
-Cloning straight away will not download the APK
+Cloning straight away will not download the APK either use git bash or,
 to download the desired apk click on the desired apk and then on the next page click download as the files are uploaded using GIT LFS.
 
 OR
